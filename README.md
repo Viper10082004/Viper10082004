@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Viper10082004
+- 👋 Hi, I’m CyberBoy
 - 👀 I’m interested in coding and programing
-- 🌱 I’m currently learning how to be a front-end web developer
+- 🌱 I’m currently learning how to be a MERN stack developer
 - 💞️ I’m looking to collaborate on web developing 
 - 📫 How to reach me
 - G-mail: sekhsoukhalaeeddine@gmail.com
