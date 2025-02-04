@@ -1,4 +1,4 @@
-- 👋 Hi, I’m CyberBoy
+- 👋 Hi, I’m Alae Eddine
 - 👀 I’m interested in coding and programing
 - 🌱 I’m currently learning how to be a MERN stack developer (Already a React js Developer)
 - 💞️ I’m looking to collaborate on web developing and hopefully mobile too
